@@ -1,0 +1,9 @@
+[submodule "Studenda-model"]
+	path = Studenda-model
+	url = https://github.com/ArkhamX2/Studenda-model.git
+[submodule "Studenda-UI"]
+	path = Studenda-UI
+	url = https://github.com/ArkhamX2/Studenda-UI.git
+[submodule "Studenda-telegram-bot"]
+	path = Studenda-telegram-bot
+	url = https://github.com/ArkhamX2/Studenda-telegram-bot.git
