@@ -1,0 +1,2 @@
+# Studenda
+University timetable project
